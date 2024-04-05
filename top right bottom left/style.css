@@ -1,0 +1,27 @@
+DIV {
+    padding: 5% 8%;
+    background-color: #255fff; 
+    margin: 10px;
+    display: inline-block;
+    border-radius: 100%;
+    border-color: black;
+    border-style: groove;
+    border: solid #ff2525 3px;
+}
+
+.item {
+    background-color: blanchedalmond;
+}
+.item2 {
+    background-color: blueviolet;
+    border-radius: 10%;
+    display: inline-block;
+
+}
+.item3 {
+    background-color: gold;
+    font-size: 150%;
+}
+.item4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
